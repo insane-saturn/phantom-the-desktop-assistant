@@ -22,8 +22,8 @@ class Phantom:
     # ============================================
     # 🎨 EASY CUSTOMIZATION - CHANGE THESE! 🎨
     # ============================================
-    PROGRAM_NAME = "Saturn"
-    PROGRAM_TAGLINE = "Just like this program its the coolest planet"
+    PROGRAM_NAME = "Phantom"
+    PROGRAM_TAGLINE = "idk what to put gng change this the name and the art in the code its rlly simple"
     
     # 💀 Change the ASCII art below (keep it as a string)
     ASCII_ART = """
