@@ -33,4 +33,12 @@ change names down here
 just below it you will see the art look for the """ markings these are your barriers dont delete these only the art and put the art in these barriers
 
 
+
+
+
+
+
+HEY DOWN HERE little last thing i wanna give you do u wanna open it from ur desktop?? well do i have the cool thing for u right click the .bat file make a shortcut drag it to ur desktop then go to https://www.flaticon.com to get a little photo for ur shortcut to make it look good BUT this photo wont work as a icon so go to https://convertio.co/png-ico to make it into a icon type photo then you can right click your shortcut then click on properties look down and click change icon and then click browse and find your ico file that you converted and double click it and it will be set as the app photo so it looks cool you can rename it too
+
+
 !!!!!!! HOPE YOU ENJOY !!!!!!!!!!
